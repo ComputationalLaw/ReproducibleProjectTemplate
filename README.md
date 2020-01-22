@@ -1,0 +1,1 @@
+This repo contains a sample "reproducibility license" found originally in this project: [https://github.com/runtimeverification/verified-smart-contracts/blob/master/LICENSE.md](https://github.com/runtimeverification/verified-smart-contracts/blob/master/LICENSE.md)
